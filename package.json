@@ -1,0 +1,24 @@
+{
+  "name": "health-consult",
+  "version": "1.0.0",
+  "description": "充值和处方",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Square-nut/health-consult.git"
+  },
+  "keywords": [
+    "vue",
+    "router",
+    "vuex"
+  ],
+  "author": "liruiqing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Square-nut/health-consult/issues"
+  },
+  "homepage": "https://github.com/Square-nut/health-consult#readme"
+}
